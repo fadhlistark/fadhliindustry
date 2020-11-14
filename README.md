@@ -48,10 +48,8 @@
         <i class="fa fa-phone"></i> +1 5589 55488 55
       </div>
       <div class="social-links float-right">
-        <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
         <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
         <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
         <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
       </div>
     </div>
@@ -221,7 +219,7 @@
       <div class="container">
         <div class="section-header">
           <h2>Our Portfolio</h2>
-          <p>Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
+          <p>We serve to become no.1 on your project because customer satifaction is our priority </p>
         </div>
       </div>
 
@@ -328,7 +326,7 @@
       <div class="container">
         <div class="section-header">
           <h2>Testimonials</h2>
-          <p>Sed tamen tempor magna labore dolore dolor sint tempor duis magna elit veniam aliqua esse amet veniam enim export quid quid veniam aliqua eram noster malis nulla duis fugiat culpa esse aute nulla ipsum velit export irure minim illum fore</p>
+          <p>F Corp is very fast respon, good quality also customer is no One</p>
         </div>
         <div class="owl-carousel testimonials-carousel">
 
